@@ -1,33 +1,97 @@
-<h1 align="center">Hi 👋, I'm Geitodyu Henrique Crusoe</h1>
-<h3 align="center">A passionate Software Engineer with a focus on mobile and web development from Liberia (currently in Uganda).</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cruso003&label=Profile%20views&color=0e75b6&style=flat" alt="cruso003" /> </p>
+# Geitodyu Henrique Crusoe
+### Software Engineer | Mobile & Web Development Specialist
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cruso003" alt="cruso003" /></a> </p>
+*Passionate about building innovative solutions for sustainable development*
 
-<p align="left"> <a href="https://twitter.com/crusoehenrique" target="blank"><img src="https://img.shields.io/twitter/follow/crusoehenrique?logo=twitter&style=for-the-badge" alt="crusoehenrique" /></a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=cruso003&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/cruso003)
+[![Twitter Follow](https://img.shields.io/twitter/follow/crusoehenrique?logo=twitter&style=for-the-badge)](https://twitter.com/crusoehenrique)
 
-- 🔭 I’m currently working on **Smart Irrigation System (R&D for sustainable farming in Africa)**
+</div>
 
-- 🌱 I’m currently learning **DevOps (AWS, Docker) Google UX/UI Design**
+---
 
-- 👯 I’m looking to collaborate on [Event Ticketing System](A system with NFC technology for seamless payments at events.)
+## 🚀 About Me
 
-- 🤝 I’m looking for help with [Advancing Multivendor eCommerce Solutions Bringing the multivendor platform to life with more advanced features!](https://github.com/cruso003/Quick-Cart)
+I'm a dedicated Software Engineer from Liberia, currently based in Kampala, Uganda, specializing in mobile and web development. With expertise in JavaScript ecosystems and a passion for sustainable technology solutions, I focus on creating impactful applications that address real-world challenges across Africa.
 
-- 👨‍💻 All of my projects are available at [https://github.com/cruso003](https://github.com/cruso003)
+### 🔬 Current Focus
+- **Smart Irrigation System** - Leading R&D for sustainable farming solutions in Africa (Currently in prototype development)
+- **DevOps & Cloud Technologies** - Advancing skills in AWS and Docker
+- **UX/UI Design** - Pursuing Google UX/UI Design certification
 
-- 📝 I occasionally write articles on [https://hashnode.com/@Cruso003](https://hashnode.com/@Cruso003)
+## 💼 Featured Projects
 
-- 💬 Ask me about **React Native, Node.js, AWS, well Javascript in general**
+### 🌱 [Sahara Sprout](https://saharasprout.com) - Smart Irrigation System
+*Prototype Development Phase*
+Research and development project focused on creating sustainable farming solutions for African agriculture through intelligent water management systems. Revolutionizing agricultural practices with IoT-enabled irrigation technology.
 
-- 📫 How to reach me **crusoehenriqu3@gmail.com**
+### 🎫 [Tick8Plus](https://tick8plus.com) - Event Ticketing System
+*Seeking Collaboration*
+Comprehensive event management platform integrating NFC technology for seamless event payments, ticketing, and attendee management. Streamlining the event experience from purchase to entry.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_R5o1qcuViK_AXg_GkyQy0zZwYqHXQH2/view?usp=sharing](https://drive.google.com/file/d/1_R5o1qcuViK_AXg_GkyQy0zZwYqHXQH2/view?usp=sharing)
+### 💳 [X-Pay](https://xpay-bits.com) - Revolutionary Payment Platform
+*Actively Seeking Contributors*
+X-Pay is revolutionizing payments across Africa by connecting local and global payment methods through a unified platform. Features include:
+- **Digital Wallet** with comprehensive financial management
+- **NFC Technology Integration** for contactless payments
+- **Split Bill Payments** for shared expenses
+- **Merchant Payment Solutions** for businesses
+- **Gift Cards & Rewards** system
+- **Local & International Money Transfer** capabilities
+- **Multi-Currency Support** across African markets
 
-- ⚡ Fun fact **I think I’m funny and I game way too much while devouring snacks!**
+## 🛠️ Technical Expertise
 
-<h3 align="left">Connect with me:</h3>
+### **Core Technologies**
+- **Frontend:** React, React Native, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, Python, Django, Flask
+- **Mobile:** React Native, Flutter
+- **Cloud & DevOps:** AWS, Docker, Google Cloud Platform
+- **Databases:** MongoDB, PostgreSQL, MySQL, Redis
+- **Payment Integration:** Stripe, PayPal, Mobile Money APIs
+- **Hardware:** Arduino, IoT Sensors, NFC Technology
+
+### **Specializations**
+- Mobile Application Development
+- Full-Stack Web Development
+- Payment Systems & Fintech Solutions
+- Cloud Architecture & Deployment
+- IoT & Hardware Integration
+- DevOps & CI/CD Pipelines
+- Agricultural Technology Solutions
+
+## 🌍 Impact & Vision
+
+My projects focus on solving real-world challenges across Africa:
+- **Agricultural Innovation**: Sustainable farming through smart irrigation
+- **Event Technology**: Seamless event experiences with modern payment solutions
+- **Financial Inclusion**: Revolutionary payment platforms connecting Africa to global markets
+- **Technology Access**: Building solutions that work across diverse infrastructure conditions
+
+## 🏆 Achievements
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cruso003&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=cruso003&show_icons=true&locale=en&layout=compact&theme=default)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cruso003&show_icons=true&locale=en&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cruso003&theme=default)
+
+</div>
+
+## 🤝 Let's Connect
+
 <p align="left">
 <a href="https://dev.to/cruso003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cruso003" height="30" width="40" /></a>
 <a href="https://twitter.com/crusoehenrique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crusoehenrique" height="30" width="40" /></a>
@@ -37,17 +101,34 @@
 <a href="https://medium.com/@crusoehenrique3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@crusoehenrique3" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+- 📧 **Email:** crusoehenriqu3@gmail.com
+- 📄 **Resume:** [View My Experience](https://drive.google.com/file/d/1_R5o1qcuViK_AXg_GkyQy0zZwYqHXQH2/view?usp=sharing)
 
+## 💡 Open to Opportunities
 
-<h3 align="left">Support:</h3>
+I'm actively seeking collaboration opportunities and open to discussing:
+- **Fintech & Payment Solutions**
+- **Agricultural Technology & IoT**
+- **Mobile & Web Development Projects**
+- **Sustainable Technology Solutions**
+- **Open Source Contributions**
+- **DevOps & Cloud Architecture**
+
+### 🤝 Current Collaboration Needs
+- **X-Pay Platform**: Seeking experienced developers for payment integration and security
+- **Sahara Sprout**: Looking for IoT specialists and agricultural technology experts
+- **Tick8Plus**: Need event management and NFC technology contributors
+
+## ☕ Support My Work
+
+If you find my projects helpful or interesting, consider supporting my work:
+
 <p><a href="https://www.buymeacoffee.com/cruso003"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cruso003" /></a></p><br><br>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cruso003&show_icons=true&locale=en&layout=compact" alt="cruso003" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cruso003&show_icons=true&locale=en" alt="cruso003" /></p>
+*"Building technology solutions that bridge Africa to the global digital economy, one innovation at a time."*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cruso003&" alt="cruso003" /></p>
-
+</div>
