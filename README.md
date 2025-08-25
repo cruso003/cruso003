@@ -24,15 +24,12 @@ I'm a dedicated Software Engineer from Liberia, currently based in Kampala, Ugan
 ## 💼 Featured Projects
 
 ### 🌱 [Sahara Sprout](https://saharasprout.com) - Smart Irrigation System
-*Prototype Development Phase*
 Research and development project focused on creating sustainable farming solutions for African agriculture through intelligent water management systems. Revolutionizing agricultural practices with IoT-enabled irrigation technology.
 
 ### 🎫 [Tick8Plus](https://tick8plus.com) - Event Ticketing System
-*Seeking Collaboration*
 Comprehensive event management platform integrating NFC technology for seamless event payments, ticketing, and attendee management. Streamlining the event experience from purchase to entry.
 
 ### 💳 [X-Pay](https://xpay-bits.com) - Revolutionary Payment Platform
-*Actively Seeking Contributors*
 X-Pay is revolutionizing payments across Africa by connecting local and global payment methods through a unified platform. Features include:
 - **Digital Wallet** with comprehensive financial management
 - **NFC Technology Integration** for contactless payments
@@ -46,7 +43,7 @@ X-Pay is revolutionizing payments across Africa by connecting local and global p
 
 ### **Core Technologies**
 - **Frontend:** React, React Native, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express.js, Python, Django, Flask
+- **Backend:** Node.js, Express.js, Go (Golang), Python, Django, Flask
 - **Mobile:** React Native, Flutter
 - **Cloud & DevOps:** AWS, Docker, Google Cloud Platform
 - **Databases:** MongoDB, PostgreSQL, MySQL, Redis
@@ -70,23 +67,18 @@ My projects focus on solving real-world challenges across Africa:
 - **Financial Inclusion**: Revolutionary payment platforms connecting Africa to global markets
 - **Technology Access**: Building solutions that work across diverse infrastructure conditions
 
-## 🏆 Achievements
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cruso003&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=cruso003&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true)
 
-</div>
+### GitHub Performance
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cruso003&show_icons=true&locale=en&theme=default&hide_border=true)
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=cruso003&show_icons=true&locale=en&layout=compact&theme=default)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cruso003&show_icons=true&locale=en&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cruso003&theme=default)
+### Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cruso003&theme=default&hide_border=true)
 
 </div>
 
@@ -104,26 +96,22 @@ My projects focus on solving real-world challenges across Africa:
 - 📧 **Email:** crusoehenriqu3@gmail.com
 - 📄 **Resume:** [View My Experience](https://drive.google.com/file/d/1_R5o1qcuViK_AXg_GkyQy0zZwYqHXQH2/view?usp=sharing)
 
-## 💡 Open to Opportunities
+## 💰 Investment Opportunities
 
-I'm actively seeking collaboration opportunities and open to discussing:
-- **Fintech & Payment Solutions**
-- **Agricultural Technology & IoT**
-- **Mobile & Web Development Projects**
-- **Sustainable Technology Solutions**
-- **Open Source Contributions**
-- **DevOps & Cloud Architecture**
+I'm actively seeking strategic investors for innovative African tech solutions:
 
-### 🤝 Current Collaboration Needs
-- **X-Pay Platform**: Seeking experienced developers for payment integration and security
-- **Sahara Sprout**: Looking for IoT specialists and agricultural technology experts
-- **Tick8Plus**: Need event management and NFC technology contributors
+### 🎯 Investment Focus Areas
+- **Fintech & Digital Payments** - Revolutionary payment infrastructure
+- **Agricultural Technology** - Sustainable farming solutions with IoT
+- **Event Management Technology** - Modern ticketing and payment systems
+- **Mobile-First Solutions** - Applications designed for African markets
 
-## ☕ Support My Work
+### 📈 Current Investment Opportunities
+- **X-Pay Platform**: Seeking Series A funding for payment platform expansion
+- **Sahara Sprout**: Looking for seed funding for agricultural IoT development
+- **Tick8Plus**: Seeking investment for event technology platform scaling
 
-If you find my projects helpful or interesting, consider supporting my work:
-
-<p><a href="https://www.buymeacoffee.com/cruso003"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cruso003" /></a></p><br><br>
+*Interested investors can reach out via email for detailed business plans and pitch decks.*
 
 ---
 
